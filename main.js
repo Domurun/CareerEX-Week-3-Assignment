@@ -3,7 +3,7 @@ let name = "Emmanuel Beeyah";
 let age = 22;
 let nationality = "Nigerian";
 
-let introduction = "Hello, my name is " + Emmanuel + ". I am " + 22 + " years old and I am " + Nigerian + ".";
+let introduction = "Hello, my name is Emmanuel. I am 22 years old and I am Nigerian.";
 console.log(introduction);
 
 // 2. Make a variable with your favorite quote or lyric. Change the entire text to uppercase and lowercase in separate steps.
